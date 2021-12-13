@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HatimCodes
+- 👀 I’m interested in coding obviously
+- 🌱 I’m currently learning java & php
+- 📫 How to reach me, Discord : TheVirtuoso#3447
