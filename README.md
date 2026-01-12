@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HatimCodes
 - 👀 I’m interested in coding obviously
-- 🌱 I’m currently learning java & php & flutter/dart
-- 📫 How to reach me, Discord : TheVirtuoso#3447
+- 🌱 Full Stack Developer 
+- 📫 How to reach me, Discord : TheVirtuoso#3447/dyazhatim@gmail.com
