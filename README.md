@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hatimcodes&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HatimCodes&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimcodes&layout=compact&theme=tokyonight" />
 </p>
 
