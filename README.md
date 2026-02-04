@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Web+Apps+%26+APIs;Always+Learning+🚀" />
-</p>
-
 <h1 align="center">Hello internet 👋, I'm Hatim</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
@@ -39,9 +35,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HatimCodes&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimcodes&layout=compact&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=hatimcodes&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimcodes&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
