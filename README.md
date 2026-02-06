@@ -71,7 +71,7 @@
 ## 📚 Currently Learning
 - Advanced Docker & networking
 - Backend architecture & scalability
-- Linux server administration
+- Linux server administration and management
 - Clean code & best practices
 
 ---
